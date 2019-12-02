@@ -16,6 +16,6 @@ library(wordcloud)
 
 ## Author
 
-* **Oscar Leal** - *Initial work* - [ozkrleal]ozkrleal
+* **Oscar Leal** - [ozkrleal]ozkrleal
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
